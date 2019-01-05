@@ -1,0 +1,324 @@
+Country,PR,CL,Status
+Afghanistan,6,6,NF
+Albania,3,3,PF
+Algeria,6,5,NF
+Andorra,1,1,F
+Angola,6,6,NF
+Antigua and Barbuda,2,2,F
+Argentina,2,2,F
+Armenia,5,4,PF
+Australia,1,1,F
+Austria,1,1,F
+Azerbaijan,7,6,NF
+Bahamas,1,1,F
+Bahrain,7,6,NF
+Bangladesh,4,4,PF
+Barbados,1,1,F
+Belarus,7,6,NF
+Belgium,1,1,F
+Belize,1,2,F
+Benin,2,2,F
+Bhutan,3,4,PF
+Bolivia,3,3,PF
+Bosnia and Herzegovina,4,3,PF
+Botswana,3,2,F
+Brazil,2,2,F
+Brunei,6,5,NF
+Bulgaria,2,2,F
+Burkina Faso,4,3,PF
+Burundi,7,6,NF
+Cambodia,6,5,NF
+Cameroon,6,6,NF
+Canada,1,1,F
+Cape Verde,1,1,F
+Central African Republic,7,7,NF
+Chad,7,6,NF
+Chile,1,1,F
+China,7,6,NF
+Colombia,3,4,PF
+Comoros,3,4,PF
+Congo (Brazzaville),6,5,NF
+Congo (Kinshasa),6,6,NF
+Costa Rica,1,1,F
+Cote d'Ivoire,4,4,PF
+Croatia,1,2,F
+Cuba,7,6,NF
+Cyprus,1,1,F
+Czech Republic,1,1,F
+Czechoslovakia,-,-,-
+Denmark,1,1,F
+Djibouti,6,5,NF
+Dominica,1,1,F
+Dominican Republic,3,3,PF
+Ecuador,3,3,PF
+Egypt,6,5,NF
+El Salvador,2,3,F
+Equatorial Guinea,7,7,NF
+Eritrea,7,7,NF
+Estonia,1,1,F
+Ethiopia,7,6,NF
+Fiji,3,3,PF
+Finland,1,1,F
+France,1,1,F
+Gabon,6,5,NF
+Georgia,3,3,PF
+Germany,1,1,F
+"Germany, E. ",-,-,-
+"Germany, W. ",-,-,-
+Ghana,1,2,F
+Greece,2,2,F
+Grenada,1,2,F
+Guatemala,4,4,PF
+Guinea,5,5,PF
+Guinea-Bissau,5,5,PF
+Guyana,2,3,F
+Haiti,5,5,PF
+Honduras,4,4,PF
+Hungary,2,2,F
+Iceland,1,1,F
+India,2,3,F
+Indonesia,2,4,PF
+Iran,6,6,NF
+Iraq,5,6,NF
+Ireland,1,1,F
+Israel,1,2,F
+Italy,1,1,F
+Jamaica,2,3,F
+Japan,1,1,F
+Jordan,6,5,NF
+Kazakhstan,6,5,NF
+Kenya,4,4,PF
+Kiribati,1,1,F
+Kosovo,3,4,PF
+Kuwait,5,5,PF
+Kyrgyzstan,5,5,PF
+Laos,7,6,NF
+Latvia,2,2,F
+Lebanon,5,4,PF
+Lesotho,3,3,PF
+Liberia,3,4,PF
+Libya,6,6,NF
+Liechtenstein,1,1,F
+Lithuania,1,1,F
+Luxembourg,1,1,F
+Macedonia,4,3,PF
+Madagascar,3,4,PF
+Malawi,3,3,PF
+Malaysia,4,4,PF
+Maldives,4,5,PF
+Mali,5,4,PF
+Malta,1,1,F
+Marshall Islands,1,1,F
+Mauritania,6,5,NF
+Mauritius,1,2,F
+Mexico,3,3,PF
+Micronesia,1,1,F
+Moldova,3,3,PF
+Monaco,2,1,F
+Mongolia,1,2,F
+Montenegro,3,3,PF
+Morocco,5,4,PF
+Mozambique,4,4,PF
+Myanmar,6,5,NF
+Namibia,2,2,F
+Nauru,2,2,F
+Nepal,3,4,PF
+Netherlands,1,1,F
+New Zealand,1,1,F
+Nicaragua,4,3,PF
+Niger,3,4,PF
+Nigeria,4,5,PF
+North Korea,7,7,NF
+Northern Cyprus,-,-,-
+Norway,1,1,F
+Oman,6,5,NF
+Pakistan,4,5,PF
+Palau,1,1,F
+Panama,2,2,F
+Papua New Guinea,4,3,PF
+Paraguay,3,3,PF
+Peru,2,3,F
+Philippines,3,3,PF
+Poland,1,1,F
+Portugal,1,1,F
+Qatar,6,5,NF
+Romania,2,2,F
+Russia,6,6,NF
+Rwanda,6,6,NF
+Samoa,2,2,F
+San Marino,1,1,F
+Sao Tome and Principe,2,2,F
+Saudi Arabia,7,7,NF
+Senegal,2,2,F
+Serbia,2,2,F
+Seychelles,3,3,PF
+Sierra Leone,3,3,PF
+Singapore,4,4,PF
+Slovakia,1,1,F
+Slovenia,1,1,F
+Solomon Islands,3,3,PF
+Somalia,7,7,NF
+South Africa,2,2,F
+South Korea,2,2,F
+South Sudan,7,6,NF
+Spain,1,1,F
+Sri Lanka,4,4,PF
+St. Kitts and Nevis,2,1,F
+St. Lucia,1,1,F
+St. Vincent and the Grenadines,1,1,F
+Sudan,7,7,NF
+Suriname,2,3,F
+Swaziland,7,5,NF
+Sweden,1,1,F
+Switzerland,1,1,F
+Syria,7,7,NF
+Taiwan,1,2,F
+Tajikistan,7,6,NF
+Tanzania,3,4,PF
+Thailand,6,5,NF
+The Gambia,7,6,NF
+Timor-Leste,3,3,PF
+Togo,4,4,PF
+Tonga,2,2,F
+Trinidad and Tobago,2,2,F
+Tunisia,1,3,F
+Turkey,3,4,PF
+Turkmenistan,7,7,NF
+Tuvalu,1,1,F
+Uganda,6,5,NF
+Ukraine,3,3,PF
+United Arab Emirates,6,6,NF
+United Kingdom,1,1,F
+United States,1,1,F
+Uruguay,1,1,F
+USSR,-,-,-
+Uzbekistan,7,7,NF
+Vanuatu,2,2,F
+Venezuela,5,5,PF
+Vietnam,7,5,NF
+"Vietnam, N.",-,-,-
+"Vietnam, S.",-,-,-
+Yemen,7,6,NF
+"Yemen, N.",-,-,-
+"Yemen, S.",-,-,-
+Yugoslavia,-,-,-
+Yugoslavia (Serbia & Montenegro),-,-,-
+Zambia,3,4,PF
+Zimbabwe,5,5,PF
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
